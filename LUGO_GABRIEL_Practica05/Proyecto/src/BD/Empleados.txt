@@ -1,0 +1,11 @@
+Nombre: Elena, Correo: elena@empresa.com, Rol: Empleado
+Nombre: Miguel, Correo: miguel@empresa.com, Rol: Empleado
+Nombre: Sofia, Correo: sofia@empresa.com, Rol: Empleado
+Nombre: Pedro, Correo: pedro@empresa.com, Rol: Empleado
+Nombre: Laura, Correo: laura@empresa.com, Rol: Empleado
+Nombre: Luis, Correo: luis@empresa.com, Rol: Empleado
+Nombre: Ana, Correo: ana@empresa.com, Rol: Empleado
+Nombre: Carlos, Correo: carlos@empresa.com, Rol: Empleado
+Nombre: María, Correo: maría@empresa.com, Rol: Empleado
+Nombre: Juan, Correo: juan@empresa.com, Rol: Empleado
+Nombre: Roberto, Correo: roberto@empresa.com, Rol: Empleado

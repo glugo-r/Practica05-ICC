@@ -1,0 +1,11 @@
+Nombre: Elena, Correo: elena@empresa.com, Rol: Administrador
+Nombre: Miguel, Correo: miguel@empresa.com, Rol: Administrador
+Nombre: Sofia, Correo: sofia@empresa.com, Rol: Administrador
+Nombre: Pedro, Correo: pedro@empresa.com, Rol: Administrador
+Nombre: Laura, Correo: laura@empresa.com, Rol: Administrador
+Nombre: Luis, Correo: luis@empresa.com, Rol: Administrador
+Nombre: Ana, Correo: ana@empresa.com, Rol: Administrador
+Nombre: Carlos, Correo: carlos@empresa.com, Rol: Administrador
+Nombre: María, Correo: maría@empresa.com, Rol: Administrador
+Nombre: Juan, Correo: juan@empresa.com, Rol: Administrador
+Nombre: Roberto, Correo: roberto@empresa.com, Rol: Administrador
